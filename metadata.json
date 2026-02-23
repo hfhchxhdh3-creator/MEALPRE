@@ -1,0 +1,5 @@
+{
+  "name": "MealPrepAI",
+  "description": "AI-powered meal planning application that generates weekly meal plans, shopping lists, and prep guides.",
+  "requestFramePermissions": []
+}
